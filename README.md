@@ -30,10 +30,16 @@ git clone https://github.com/mertskaplan/tweet2rss.git
 
 ## Usage
 
-Open your browser and access the script with the `account` query parameter: [http://yourserver/tweet2rss/index.php?account=mertskaplan]()
+Open your browser and access the script with the `account` query parameter: `http://yourserver/tweet2rss/index.php?account=mertskaplan`
 
 - Replace `mertskaplan` with the X username you want to fetch tweets from.
 - The output is a valid RSS feed that can be used in any RSS reader.
+
+---
+
+## Demo
+
+You can visit the following address to try the **tweet2rss** application live: <https://lab.mertskaplan.com/tweet2rss/?account=mertskaplan>
 
 ---
 
